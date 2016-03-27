@@ -1,6 +1,6 @@
 return {
-	bot_api_key = '',
-	google_api_key = '',
+	bot_api_key = 181429475:AAH1I4DbtTR-S5a_ubKS92vVHHDfS7-8TDs
+        google_api_key = '',
 	google_cse_key = '',
 	lastfm_api_key = '',
 	owm_api_key = '',
